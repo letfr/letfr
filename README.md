@@ -1,5 +1,23 @@
 ### Hey! 👋
 
+I'm a front-end developer based in São Paulo - Brasil. I'm interested in learning new technologies and sharing knowledge.
+
+*What I'm specializing in:*
+- Javascript, Typescript, Vue.js + Vuex, Node.js;
+
+*I'm also interested in:*
+- Code quality, tests and architecture;
+- UX & UI;
+- React, Redux, CSS preprocessors;
+
+You can see my studies annotations **[here](https://github.com/letfr/studies-annotations)**.
+
+*Things I like:*
+- Innovation, Technology and Science ⚛️ 
+- Art 🎨 
+- Yoga lifestyle 🧘🏽
+- Drinking a lot of coffee ☕
+
 [![linkeind][linkedin_badge]](https://www.linkedin.com/in/letfr/)
 [![codepen][codepen_badge]](https://codepen.io/letfr)
 
