@@ -3,12 +3,13 @@
 I'm a front-end developer based in São Paulo - Brasil. I'm interested in learning new technologies and sharing knowledge.
 
 *What I'm specializing in:*
-- Javascript, Typescript, Vue.js + Vuex, Node.js;
+- Javascript, Typescript, React + Redux, Node.js;
 
 *I'm also interested in:*
 - Code quality, tests and architecture;
 - UX & UI;
-- React, Redux, CSS preprocessors;
+- Vue.js + Vuex;
+- CSS preprocessors;
 
 You can see my studies annotations **[here](https://github.com/letfr/studies-annotations)**.
 
